@@ -12,7 +12,7 @@
 				}
 			},
 			{
-				"name": "Wait2",
+				"name": "Wait_new",
 				"type": "Wait",
 				"dependsOn": [
 					{
@@ -24,7 +24,7 @@
 				],
 				"userProperties": [],
 				"typeProperties": {
-					"waitTimeInSeconds": 20
+					"waitTimeInSeconds": 1
 				}
 			}
 		],
